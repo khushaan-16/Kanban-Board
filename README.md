@@ -9,7 +9,7 @@ It allows users to create, drag, drop, and manage tasks across different stages.
 
 ---
 
-# 👉 Play the game here:
+# 👉 Live Preview:
 🔗 [https://kanban-boardkb.netlify.app/]
 
 ---
